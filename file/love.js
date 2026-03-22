@@ -168,8 +168,8 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
-            ctx.fillText("Click the heart(mera hi h):) ", 30, -5);
-            ctx.fillText("😘", 28, 10);
+            ctx.fillText("Click the heart  ", 30, -5);
+            ctx.fillText("(mera hi dil h 😘)", 28, 10);
             ctx.restore();
         },
         clear: function() {
